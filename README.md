@@ -54,4 +54,5 @@ It is worthy to note that this version of game is incomplete. First of all, it d
 
 ## Authors
 
-* **Avraham Khanukaev** - *Initial work* - [Avraham Khanukaev](https://github.com/avikhanukaev)
+* **Chia Yong Kang** - *Adaptation* - [ExtremelySunnyYK](https://github.com/ExtremelySunnyYK)
+* **Tech with Tim** - *Initial Work* - [TechwTim](https://techwithtim.net/)
