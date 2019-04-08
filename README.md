@@ -21,14 +21,6 @@ python3.5 main.py
 
 ## About The Game
 
-
-### How change level?
-In main.py there is main() function. Inside that function there is row that looks like -
-``` 
-game = Game(Difficulties['EASY'], Colors['WHITE'], Colors['BLACK'])
-```
-To change the level of difficulty you should change the ```Difficulties['']``` parameter to 'EASY', 'MEDIUM' or 'HARD'.
-
 ### Important Notes 
 
 It is worthy to note that this version of game is incomplete. First of all, it does not have the option to castle - this will be added in next version of the game. Second, for one to win a game he must <b>eat</b> opponents king. There is still no validation of check-mate to stop the game without eating king. 
