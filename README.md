@@ -37,8 +37,7 @@ It is worthy to note that this version of game is incomplete. First of all, it d
 
 ### Project Structure 
 * ```Game.py``` - This file contains the main game object. The `Game` object is responsible for running and manage whole game. In our project, there is only one instance of `Game` object.  
-* `Board.py`
-- The logical board is controller that conrols and manipulates the board of the game. Each operation that is done and performed in game may reflect on the board and manipulate it. - Contains the `Move` class that represents each move made by user or computer on the board. 
+* `Board.py` - The logical board is controller that conrols and manipulates the board of the game. Each operation that is done and performed in game may reflect on the board and manipulate it. - Contains the `Move` class that represents each move made by user or computer on the board. 
 * `Pieces.py` - Contains a  class `Pieces` that deals with logic of pieces.
 
 ## Current Version
