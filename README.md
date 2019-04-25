@@ -5,16 +5,11 @@
 My first game written in Python and using the PyGame library. The main purpose of this game is to practice and learn game development and software engineering with PyGame.
 2 Players Chess.
 
-## Getting Started
 
-### Prerequisites
-In order to run the game or participate in its developemnts one should have the PyGame game development library. One should install it using the following command: 
-```
-pip install pygame
-``` 
 
 ### Run
-After you have downloaded and installed the pygame library, you can run the game with
+Click on the exe file 
+or run
 ```
 python3.5 main.py
 ```
